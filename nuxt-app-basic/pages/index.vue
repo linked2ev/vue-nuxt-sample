@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        nuxt-app
+        nuxt-app-basic
       </h1>
       <h2 class="subtitle">
-        My badass Nuxt.js project
+        My priceless Nuxt.js project
       </h2>
       <div class="links">
         <a
@@ -33,6 +33,7 @@ export default {
 </script>
 
 <style>
+
 .container {
   min-height: 100vh;
   display: flex;
