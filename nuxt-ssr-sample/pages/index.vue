@@ -3,15 +3,15 @@
     <div>
       <logo/>
       <h1 class="title">
-        nuxt-app-basic
+        nuxt-ssr-sample
       </h1>
       <h2 class="subtitle">
-        My priceless Nuxt.js project
+        My fantastic Nuxt.js project
       </h2>
       <div class="links">
-        <nuxt-link to="/intro" class="button--grey">/intro</nuxt-link>
-        <nuxt-link to="/intro/intro" class="button--grey">/intro/intro</nuxt-link>
-        <nuxt-link to="/item" class="button--grey">/item</nuxt-link>
+        <nuxt-link to="/csrsample" class="button--grey">CSR - Sapmle Page</nuxt-link>
+        <nuxt-link to="/ssrsample" class="button--grey">SSR - Sample Page</nuxt-link>
+        <nuxt-link to="/ssrsample1" class="button--grey">SSR - Sample Page1</nuxt-link>
       </div>
     </div>
   </section>
