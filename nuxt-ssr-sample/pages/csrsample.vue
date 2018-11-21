@@ -11,7 +11,7 @@
             </ul>
         </div>
         <div class='div-btn'>
-          <nuxt-link to="/" class="button--grey">index</nuxt-link>
+          <nuxt-link to="/" class='button--grey'>index</nuxt-link>
         </div>
     </div>
 </template>
