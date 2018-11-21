@@ -52,4 +52,12 @@ html {
   color: #fff;
   background-color: #35495e;
 }
+
+.div-contents {
+  margin : 30px;
+}
+
+.div-btn {
+  margin : 50px;
+}
 </style>

@@ -6,12 +6,12 @@
         nuxt-ssr-sample
       </h1>
       <h2 class="subtitle">
-        My fantastic Nuxt.js project
+        Server Side Rendering Sample
       </h2>
       <div class="links">
-        <nuxt-link to="/csrsample" class="button--grey">CSR - Sapmle Page</nuxt-link>
-        <nuxt-link to="/ssrsample" class="button--grey">SSR - Sample Page</nuxt-link>
-        <nuxt-link to="/ssrsample1" class="button--grey">SSR - Sample Page1</nuxt-link>
+        <nuxt-link to="/csrsample" class="button--grey">CSR - Page</nuxt-link>
+        <nuxt-link to="/ssrsample" class="button--grey">SSR - Page</nuxt-link>
+        <nuxt-link to="/ssrcomp" class="button--grey">SSR - Comp Page</nuxt-link>
       </div>
     </div>
   </section>
@@ -19,7 +19,6 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
-
 export default {
   components: {
     Logo
@@ -28,7 +27,6 @@ export default {
 </script>
 
 <style>
-
 .container {
   min-height: 100vh;
   display: flex;
