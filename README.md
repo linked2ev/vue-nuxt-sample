@@ -35,6 +35,8 @@ npm run build
 
 - Nuxt&Vuetify template
 
+<br>
+
 ## vuetify-app
 
 - Vuetify UI template
