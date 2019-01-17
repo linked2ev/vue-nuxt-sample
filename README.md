@@ -32,7 +32,7 @@
 
 ## 6. nuxt-pwa-sample
 
-- [Nuxt-community / pwa-template](https://github.com/nuxt-community/pwa-template)  <br><br>
+- [Nuxt community / pwa-template](https://github.com/nuxt-community/pwa-template)  <br><br>
 
 
 ## GitBlog
