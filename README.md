@@ -1,49 +1,43 @@
 # vue-nuxt-sample
 
-- GitBlog에 vue.js 기반 프레임워크 nuxt.js 포스팅
-- 예제 소스
+- GitBlog 포스팅에 사용 된 예제 소스
+- Vue.js framework `Nuxt.js` sample create/fork App project
 
-## Build Setup
+## 1. nuxt-app
 
-```
-git clone https://github.com/linked2ev/vue-nuxt-sample.git
-npm install
-npm run dev
-npm run build
-```
-
-## nuxt-app-basic
-
-- Nuxt.js에 대한 기본적인 사용법 및 소개
-
-<br>
-
-## nuxt-app
-
-- Nuxt.js 기본 create-nuxt-app
-
-<br>
-
-## nuxt-ssr-sample
-
-- Nuxt.js에서 SSR(서버사이드렌더링) 확인
-
-<br>
-
-## nuxt-vuetify-app
+- [Nuxt.js 기본 create-nuxt-app](https://github.com/nuxt/create-nuxt-app)  <br>
 
 
-- Nuxt&Vuetify template
+## 2. nuxt-app-basic
 
-<br>
+- Nuxt.js에 대한 기본적인 사용법 및 소개  <br>
 
-## vuetify-app
 
-- Vuetify UI template
+## 3. nuxt-ssr-sample
 
-<br>
+- Nuxt.js에서 SSR 확인  <br>
+
+
+## 4. vuetify-app
+
+- [Vuetify UI template](https://vuetifyjs.com/ko/getting-started/quick-start)  <br>
+
+
+## 5. nuxt-vuetify-app
+
+- [Nuxt&Vuetify template](https://github.com/vuetifyjs/nuxt)  <br>
+
+
+## 6. nuxt-pwa-sample
+
+- [nuxt-community / pwa-template](https://github.com/nuxt-community/pwa-template)  <br>
+
+
+## 7. nuxt-pwa-news
+
+- [pwa-news sample - fork](https://github.com/ammezie/pwa-news)  <br>
+
 
 ## GitBlog
-
 
 [https://linked2ev.github.io/tag/devlog-nuxt/](https://linked2ev.github.io/tag/devlog-nuxt/)
